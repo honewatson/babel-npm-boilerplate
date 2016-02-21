@@ -1,4 +1,4 @@
-# babel-npm-boilerplate [![Build Status](https://travis-ci.org/camsong/babel-npm-boilerplate.svg)](https://travis-ci.org/camsong/babel-npm-boilerplate) [![npm version](https://badge.fury.io/js/babel-npm-boilerplate.svg)](http://badge.fury.io/js/babel-npm-boilerplate)
+# babel-npm-boilerplate [![Build Status](https://travis-ci.org/honewatson/babel-npm-boilerplate.svg)](https://travis-ci.org/honewatson/babel-npm-boilerplate) [![npm version](https://badge.fury.io/js/babel-npm-boilerplate.svg)](http://badge.fury.io/js/babel-npm-boilerplate)
 
 A Boilerplate for creating NPM packages using Babel, ESLint, Mocha and Chai
 
